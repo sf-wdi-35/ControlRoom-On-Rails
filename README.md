@@ -103,5 +103,8 @@ Now start by creating a few projects in rails console and add developers to it. 
 - Make it look nice! add some styling or JavaScript to this project to enhance the UI.
 
  
-
+### Resources:
+- [Active Record Associations Docs ](http://guides.rubyonrails.org/association_basics.html)
+- [Active Record Migrations](http://edgeguides.rubyonrails.org/active_record_migrations.html)
+- [rails associations lesson](https://github.com/SF-WDI-LABS/rails-associations)
 
