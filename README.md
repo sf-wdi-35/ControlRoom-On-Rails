@@ -1,5 +1,5 @@
 
-#  Controllroom App
+#  Controlroom App
 ### Why is this important?
 
 This lab is a great opportunity for you to create a useful rails app and experiment with active records and associations. 
@@ -24,11 +24,11 @@ Follow the instruction and make your team proud!
 
 <hr>
 
-## Step1: Create Controllroom App
+## Step1: Create Controlroom App
 
-Create a rails app named Controllroom using postgresql.
+Create a rails app named Controlroom using postgresql.
 <details><summary>Can't remember the rails command?</summary>
- ` $rails new Controllroom -T -d postgresql `
+ ` $rails new Controlroom -T -d postgresql `
 </details>
 
 
@@ -48,7 +48,23 @@ create this model using rails command and don’t forget to ` rails db:migrate `
 
 Now jump to the rails console and test your model. Create an few developers to use in the future steps.
 
-## Step3: Create Developers Controller
+## Step3: Create Developers 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ler
 Create the controller for developers and implement these functionalities:
 
  - See full list of all developers 
