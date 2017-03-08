@@ -81,8 +81,8 @@ deadline: date
 Don't forget to run the migration and test the new model in rails console.
 
 ## Step6: Associations
-<img src="diagram.png" style="width:300px;">
-<img src="diagram2.png" style="width:300px;">
+<img src="diagram.png" style="width:200px">
+<img src="diagram2.png" style="width:200px">
 
 Your team is structure allows:
  
